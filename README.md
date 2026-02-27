@@ -1,5 +1,5 @@
 ## Data-Minig: 장애인 이동권 보장을 위한 장애인 콜택시 대기시간 분석
-※ This repository reorganizes my individual contributions from a team project conducted as part of a university course.
+※ This repository reorganizes my individual contributions from a team project conducted as part of a university course.  
 ※ 이 repository는 대학교 수업의 일환으로 진행된 팀 프로젝트에서 개인적으로 기여한 부분을 재정리한 것입니다.
 _______
 ### 프로젝트 배경
